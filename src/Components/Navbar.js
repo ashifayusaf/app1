@@ -6,7 +6,7 @@ import './Style/style.css'
 function Navbar() {
   return (
       <div  className='nav-bar'>
-        <h1>React Router dom</h1>
+        <h1>Real Estate</h1>
         <div className='navlink'>
             
         <h1><span><BsFillHouseFill/>Welcome</span>Page</h1>
